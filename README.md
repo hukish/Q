@@ -30,7 +30,7 @@ Hudson Kishoyian
       6, FontAWesome.
     }
 ## Support and contact details
-    {Contact me on my email address :Emmanuel.Muchiri@outlook.com}
+    {Contact me on my email address :hudsonhukish@outlook.com}
 ### License
     MIT License
     Copyright (c) {2019}
