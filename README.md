@@ -3,11 +3,11 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
 ## Developed By
-Emmanuel Muchiri
+Hudson Kishoyian
 
 ## Screenshots
 
-<!-- ![homepage](images/screenshots/homepage_yp.png); -->
+<!-- ![homepage](images/screenshots/homepage_yp.png); --
 ## Behavior Driven Development
 
 | Behavior :                                                |                                                Input                                                |                                                                             Output example |
