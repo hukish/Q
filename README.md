@@ -39,7 +39,7 @@ Hudson Kishoyian
 ## Development server
 Github Link :https://github.com/hukish/Quotes.git
 
-Live Link:
+Live Link:.
 
 ## Development server
 
