@@ -10,7 +10,7 @@
   }
   input:focus,
   textarea:focus{
-    background: white;
+    background: grey;
     border-radius: 0px;
     color: black;
   
