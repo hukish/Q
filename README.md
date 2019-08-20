@@ -12,7 +12,7 @@ Hudson Kishoyian
 
 | Behavior :                                                |                                                Input .                                               |                                                                             Output example |.
 | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------: |
-| User types the quote(s) and the author and selects the date and clicks on Add a Quote(S)|"The Laws of Simplicity: Design, Technology, Business, Life",John Maeda,20 July 2019|                                           |                                                |
+| User types the quote(s) and the author and selects the date and clicks on Add a Quote(S)||                                           |                                                |
 
 ## Setup/Installation Requirements
 
