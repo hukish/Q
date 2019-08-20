@@ -5,7 +5,7 @@
   input,
   textarea {
     background: transparent;
-    border-radius: 0px;
+    border-radius: 1px;
     outline: none;
   }
   input:focus,
