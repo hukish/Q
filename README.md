@@ -32,7 +32,7 @@ Hudson Kishoyian
 ## Support and contact details
     {Contact me on my email address :hudsonhukish@outlook.com}
 ### License
-    MIT License
+    MIT License.
     Copyright (c) {2019}
 
 
