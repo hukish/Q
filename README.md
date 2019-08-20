@@ -18,7 +18,7 @@ Hudson Kishoyian
 
 -   Connect to the internet
 -   Download a web browser of your preference
--   click here to open the link : <https://github.com/EmmanuelMuchiri/Quotes.git>
+-   click here to open the link : <https://github.com/hukish/Quotes.git>
 ## Known Bugs
     {In case you experience bugs kindly refresh your web page or restart your web browser }
 ## Technologies Used
