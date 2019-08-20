@@ -8,7 +8,7 @@ Hudson Kishoyian
 ## Screenshots
 
 <!-- ![homepage](images/screenshots/homepage_yp.png); --
-## Behavior Driven Development
+## Behavior Driven Development.
 
 | Behavior :                                                |                                                Input                                                |                                                                             Output example |
 | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------: |
