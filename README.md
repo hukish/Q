@@ -37,7 +37,7 @@ Hudson Kishoyian
 
 
 ## Development server
-Github Link :https://github.com/EmmanuelMuchiri/Quotes.git
+Github Link :https://github.com/hukish/Quotes.git
 
 Live Link:
 
