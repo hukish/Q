@@ -1,36 +1,45 @@
-# PROJECT NAME QUOTES BY HUDSON SARUNI
-# DESCRIPTION OF THE PROJECT
-This an application of quotes, where the user is able to read quotes,add quotes,delete,like and unlike and able to see the most voted quotes.
-# PROJECT SETUP INSTRUCTION
-*Installed Angular 8
-* I installed Linux operating system
-# TECHNOLOGIES USED
-* HTML
-* CSS
-* ANGULAR CLI
-# LIVE LINK
-https://hukish.github.io/Quotes/
+# Quotes
 
-# BUGS
-The most voted quote is not functioning working on it for easy clarification to the user.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
-# CONTACT INFORMATION
-CONTACT ME VIA:
-* Email: hudsonhukish@gmail.com
+## Developed By
+Emmanuel Muchiri
+
+## Screenshots
+
+<!-- ![homepage](images/screenshots/homepage_yp.png); -->
+## Behavior Driven Development
+
+| Behavior :                                                |                                                Input                                                |                                                                             Output example |
+| :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------: |
+| User types the quote(s) and the author and selects the date and clicks on Add a Quote(S)|"The Laws of Simplicity: Design, Technology, Business, Life",John Maeda,20 July 2019|                                           |                                                |
+
+## Setup/Installation Requirements
+
+-   Connect to the internet
+-   Download a web browser of your preference
+-   click here to open the link : <https://github.com/EmmanuelMuchiri/Quotes.git>
+## Known Bugs
+    {In case you experience bugs kindly refresh your web page or restart your web browser }
+## Technologies Used
+    { 1 .Angular
+      2, CSS
+      3, bootstrap
+      4, html
+      5, Typescript
+      6, FontAWesome
+    }
+## Support and contact details
+    {Contact me on my email address :Emmanuel.Muchiri@outlook.com}
+### License
+    MIT License
+    Copyright (c) {2019}
 
 
-# LICENCE
-MIT License
+## Development server
+Github Link :https://github.com/EmmanuelMuchiri/Quotes.git
 
-Copyright (c) 2019 Moringa School
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
+Live Link:
 
 ## Development server
 
