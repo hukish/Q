@@ -9,9 +9,9 @@ import { Quote } from '../quote';
 export class QuoteComponent implements OnInit {
   quotes: Quote[] = 
   [
-    new Quote(1,'live your life to the fullest' , 'things happen for a reason and season',new Date(2019,8,12)),
-    new Quote(2,'Succesful and unsuccesful dont vary in ability they vary in their desires to do things', 'your desire in doing things is what matters',new Date(2019,8,13)),
-    new Quote(3,'Strive for progress not perfection','their is no perfection in success',new Date(2019,8,14)),
+    new Quote(1,'live your life to the fullest' , 'things happen for a reason and season',new Date(2020,3,27)),
+    new Quote(2,'Succesful and unsuccesful dont vary in ability they vary in their desires to do things', 'your desire in doing things is what matters',new Date(2020,3,29)),
+    new Quote(3,'Strive for progress not perfection','their is no perfection in success',new Date(2020,3,30)),
    
     
   ];
